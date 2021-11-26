@@ -10,6 +10,7 @@ This code is based on jfzhuang's [VIM-LPR](https://github.com/jfzhuang/VIM-LPR)
 4.  run: python lpr_predict.py
 
 # Citation
+
 @inproceedings{zhang2021efficient,
   title={Efficient License Plate Recognition via Holistic Position Attention},
   author={Zhang, Yesheng and Wang, Zilei and Zhuang, Jiafan},
