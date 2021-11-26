@@ -134,7 +134,7 @@ history = model.fit(
         'char4': tr_label_4,
         'char5': tr_label_5
     },
-    epochs=2, 
+    epochs=200, 
     batch_size=BatchSize, 
     validation_data=(
         {
