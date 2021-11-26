@@ -24,7 +24,7 @@ tr_images, val_images, tr_labels, val_labels = train_test_split(
     labels,
     train_size=1056,
     #test_size=0.3,
-    random_state=12)
+)
  
  
 len_tr = len(tr_images)
