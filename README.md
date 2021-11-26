@@ -25,3 +25,13 @@ This code is based on jfzhuang's [VIM-LPR](https://github.com/jfzhuang/VIM-LPR)
   pages={552-561},
   year={2013}
 }
+
+@article{Shea2014,
+  author =        {Shea, Nicholas and Boldt, Annika},
+  journal =       {Trends in Cognitive Sciences},
+  pages =         {186--193},
+  title =         {{Supra-personal cognitive control}},
+  volume =        {18},
+  year =          {2014},
+  doi =           {10.1016/j.tics.2014.01.006},
+}
