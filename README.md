@@ -9,3 +9,18 @@ This code is based on jfzhuang's [VIM-LPR](https://github.com/jfzhuang/VIM-LPR)
 3. specify the plate image file in lpr_predict.py
 4.  run: python lpr_predict.py
 
+# Citation
+@inproceedings{zhang2021efficient,
+  title={Efficient License Plate Recognition via Holistic Position Attention},
+  author={Zhang, Yesheng and Wang, Zilei and Zhuang, Jiafan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2021}
+}
+
+@inproceedings{AOLP2013,
+  title={Application-Oriented License Plate Recognition},
+  author={Hsu, G.-S.; Chen, J.-C.; Chung, Y.-Z.},
+  booktitle={Vehicular Technology, IEEE Transactions on , vol.62, no.2},
+  pages={552--561},
+  year={2013}
+}
