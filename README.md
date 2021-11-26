@@ -19,8 +19,8 @@ This code is based on jfzhuang's [VIM-LPR](https://github.com/jfzhuang/VIM-LPR)
 
 @inproceedings{AOLP2013,
   title={Application-Oriented License Plate Recognition},
-  author={Hsu, G.-S.; Chen, J.-C.; Chung, Y.-Z.},
+  author={Hsu, G.S.; Chen, J.C.; Chung, Y.Z.},
   booktitle={Vehicular Technology, IEEE Transactions on , vol.62, no.2},
-  pages={552--561},
+  pages={552-561},
   year={2013}
 }
