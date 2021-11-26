@@ -1,5 +1,5 @@
 # VIM-LPR-keras
-This is a re-implementation of VIM-LPR using keras.
+This is a re-implementation of VIM-LPR for paper "Efficient License Plate Recognition via Holistic Position Attention"(AAAI2021) using keras.
 <br>
 This code is based on jfzhuang's [VIM-LPR](https://github.com/jfzhuang/VIM-LPR)
 <br><br>
