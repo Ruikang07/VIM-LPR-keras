@@ -4,7 +4,7 @@ from tensorflow.keras.optimizers import Adam
 import matplotlib.pyplot as plt
 import numpy as np
 from numpy import load
-
+import cv2 
 
 model = Model(
     #inputs={'image': in_image},
@@ -24,7 +24,6 @@ model.load_weights("pretrained_model/lpr_model_weights.h5")
 
 PateBase = "0123456789ABCDEFGHJKLMNPQRSTUVWXYZ"
 
-import cv2 
 #image = cv2.imread('sample_plate_img/AOLP_AC_51.jpg')
 image = cv2.imread('sample_plate_img/AOLP_LE_654.jpg')
 
