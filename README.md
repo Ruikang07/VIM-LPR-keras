@@ -5,17 +5,23 @@ This code is based on jfzhuang's [VIM-LPR](https://github.com/jfzhuang/VIM-LPR)
 <br><br>
 
 # Conda Environment
-python                    3.7.11
+python                  3.7.11
+
 tensorflow              2.6.0
+
 scikit-learn             1.0.1
+
 opencv                    4.5.1
+
 matplotlib               3.4.0
+
 
 # For quick predicting:
 1. download the pretrained model weights file: [lpr_model_weights.h5](https://drive.google.com/file/d/1tGOftwEzOXETH8k4qvEGdRA0Tuir2KdP/view?usp=sharing)
 2. put it under pretrained_model
 3. specify the plate image file in lpr_predict.py
 4.  run: python lpr_predict.py
+5.  
 
 # Citation
 
