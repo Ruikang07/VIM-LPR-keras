@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from numpy import load, save
 import math, os
+from sklearn.model_selection import train_test_split
 
 # load images and labels
 images = load('data/AOLP_noSkew_plate_images.npy', allow_pickle=True)
@@ -18,7 +19,6 @@ images = images / 255.0
 
 
 # split data:
-from sklearn.model_selection import train_test_split
 tr_images, val_images, tr_labels, val_labels = train_test_split(
     images,
     labels,
