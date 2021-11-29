@@ -25,11 +25,11 @@ All the image files and label files can be saved in two npy files
 <pre>
 ├── data
 │     ├── AOLP_noSkew
-│     │   ├── label_in_number
-│       │   └── image<br>
-│       ├── AOLP_skewed<br>
-│       │   ├── label_in_number<br>
-│       │   └── image<br>
+│     │     ├── label_in_number
+│     │     └── image
+│     ├── AOLP_skewed
+│     │     ├── label_in_number
+│     │     └── image
 </pre>
 
 # For quick predicting:
