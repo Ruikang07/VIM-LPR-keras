@@ -23,8 +23,7 @@ put all skewed plates under  data/AOLP_skewed
 The plates char need to be converted to pure number format
 All the image files and label files can be saved in two npy files
 
-├── data
-
+├── data<br>
 │       ├── AOLP_noSkew
 
 │       │   ├── label_in_number
