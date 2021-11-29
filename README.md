@@ -44,11 +44,15 @@ All the image files and label files can be saved in two npy files<br>
 </pre>
 
 # For quick predicting:
-1. download the pretrained model weights file: [lpr_model_weights.h5](https://drive.google.com/file/d/1tGOftwEzOXETH8k4qvEGdRA0Tuir2KdP/view?usp=sharing)
+1. download the pretrained model weights file: [lpr_model_weights.h5](https://drive.google.com/file/d/1tGOftwEzOXETH8k4qvEGdRA0Tuir2KdP/view?usp=sharing). It was trained on 
+   AOLP_noSkew dataset
 2. put it under pretrained_model
 3. specify the plate image file in lpr_predict.py
 4.  run: python lpr_predict.py
-5.  
+
+# For training:
+1. prepare the AOLP dataset
+2.  run: python lpr_train.py
 
 # Citation
 
