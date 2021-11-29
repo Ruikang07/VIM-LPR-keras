@@ -22,7 +22,7 @@ Put all no-skewed plates under  data/AOLP_noSkew
 put all skewed plates under  data/AOLP_skewed
 The plates char need to be converted to pure number format
 All the image files and label files can be saved in two npy files
-
+<pre>
 ├── data<br>
 │        ├── AOLP_noSkew<br>
 │        │    ├── label_in_number<br>
@@ -30,7 +30,7 @@ All the image files and label files can be saved in two npy files
 │       ├── AOLP_skewed<br>
 │       │   ├── label_in_number<br>
 │       │   └── image<br>
-
+</pre>
 
 # For quick predicting:
 1. download the pretrained model weights file: [lpr_model_weights.h5](https://drive.google.com/file/d/1tGOftwEzOXETH8k4qvEGdRA0Tuir2KdP/view?usp=sharing)
