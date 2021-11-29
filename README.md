@@ -24,7 +24,9 @@ The plates char need to be converted to pure number format<br>
 
 Put all no-skewed plates under  data/AOLP_noSkew<br>
 put all skewed plates under  data/AOLP_skewed<br>
+
 or<br>
+
 All the image files and label files can be saved in two npy files<br>
 <pre>
 ├── data
