@@ -16,6 +16,22 @@ opencv                    4.5.1
 matplotlib               3.4.0
 
 
+# Data preparation
+You need to download the [AOLP](http://aolpr.ntust.edu.tw/lab/) datasets.
+Put all no-skewed plates under  data/AOLP_noSkew
+put all skewed plates under  data/AOLP_skewed
+The plates char need to be converted to pure number format
+All the image files and label files can be saved in two npy files
+
+├── data
+│       ├── AOLP_noSkew
+│       │   ├── label_in_number
+│       │   └── image
+│       ├── AOLP_skewed
+│       │   ├── label_in_number
+│       │   └── image
+
+
 # For quick predicting:
 1. download the pretrained model weights file: [lpr_model_weights.h5](https://drive.google.com/file/d/1tGOftwEzOXETH8k4qvEGdRA0Tuir2KdP/view?usp=sharing)
 2. put it under pretrained_model
