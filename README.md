@@ -17,13 +17,13 @@ matplotlib               3.4.0
 
 
 # Data preparation
-<pre>
-You need to download the [AOLP](http://aolpr.ntust.edu.tw/lab/) datasets.
-Put all no-skewed plates under  data/AOLP_noSkew
-put all skewed plates under  data/AOLP_skewed
-The plates char need to be converted to pure number format
-All the image files and label files can be saved in two npy files
 
+You need to download the [AOLP](http://aolpr.ntust.edu.tw/lab/) datasets.<br>
+Put all no-skewed plates under  data/AOLP_noSkew<br>
+put all skewed plates under  data/AOLP_skewed<br>
+The plates char need to be converted to pure number format<br>
+All the image files and label files can be saved in two npy files<br>
+<pre>
 ├── data
 │     ├── AOLP_noSkew
 │     │     ├── label_in_number
