@@ -54,7 +54,7 @@ All the image files and label files can be saved in two npy files<br>
 # For training:
 1. prepare the AOLP dataset
 2. run: python lpr_train.py 
-3. # support npy data format only at present
+3. * support npy data format only at present
 
 
 # Citation
