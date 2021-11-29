@@ -19,9 +19,12 @@ matplotlib               3.4.0
 # Data preparation
 
 You need to download the [AOLP](http://aolpr.ntust.edu.tw/lab/) datasets.<br>
+
+The plates char need to be converted to pure number format<br>
+
 Put all no-skewed plates under  data/AOLP_noSkew<br>
 put all skewed plates under  data/AOLP_skewed<br>
-The plates char need to be converted to pure number format<br>
+or<br>
 All the image files and label files can be saved in two npy files<br>
 <pre>
 ├── data
