@@ -24,8 +24,8 @@ The plates char need to be converted to pure number format
 All the image files and label files can be saved in two npy files
 
 ├── data<br>
-│       ├── AOLP_noSkew<br>
-│       │   ├── label_in_number<br>
+│        ├── AOLP_noSkew<br>
+│        │    ├── label_in_number<br>
 │       │   └── image<br>
 │       ├── AOLP_skewed<br>
 │       │   ├── label_in_number<br>
