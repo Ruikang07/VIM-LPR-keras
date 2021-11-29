@@ -48,12 +48,13 @@ All the image files and label files can be saved in two npy files<br>
    AOLP_noSkew dataset
 2. put it under pretrained_model
 3. specify the plate image file in lpr_predict.py
-4.  run: python lpr_predict.py
+4. run: python lpr_predict.py
 
 
 # For training:
 1. prepare the AOLP dataset
-2.  run: python lpr_train.py #for npy data format only
+2. run: python lpr_train.py 
+3. # support npy data format only at present
 
 
 # Citation
