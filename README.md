@@ -58,6 +58,11 @@ All the image files and label files can be saved in npy files<br>
 <br>(support npy data format only at present)
 
 
+# Accuracy of pretrained model on AOLP AC and LE:
+1. Accuracy on AOLP AC is 93.51%
+2. Accuracy on AOLP LE is 96.55% 
+
+
 # Citation
 
 @inproceedings{zhang2021efficient,
