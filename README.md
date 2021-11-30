@@ -24,20 +24,20 @@ The plates char need to be converted to pure number format<br>
 
 Put all no-skewed plates under  data/AOLP_noSkew<br>
 AOLP_noSkew = AOLP_AC + AOLP_LE + a few noSkewed plates from AOLP_RP<br>
-put AOLP_RP plates under  data/AOLP_RP<br>
 
 or<br>
 
-All the image files and label files can be saved in two npy files<br>
+All the image files and label files can be saved in npy files<br>
 <pre>
 ├── data
 │     ├── AOLP_noSkew
 │     │     ├── label_in_number
 │     │     └── image
-│     ├── AOLP_skewed
-│     │     ├── label_in_number
-│     │     └── image
 │     │   
+│     ├── AOLP_AC_plate_images.npy  
+│     ├── AOLP_AC_plate_labels_in_number.npy
+│     ├── AOLP_LE_plate_images.npy  
+│     ├── AOLP_LE_plate_labels_in_number.npy  
 │     ├── AOLP_noSkew_plate_images.npy  
 │     └── AOLP_noSkew_plate_labels_in_number.npy
 
