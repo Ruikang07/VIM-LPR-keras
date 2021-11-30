@@ -23,7 +23,8 @@ You need to download the [AOLP](http://aolpr.ntust.edu.tw/lab/) datasets.<br>
 The plates char need to be converted to pure number format<br>
 
 Put all no-skewed plates under  data/AOLP_noSkew<br>
-put all skewed plates under  data/AOLP_skewed<br>
+AOLP_noSkew = AOLP_AC + AOLP_LE + a few noSkewed plates from AOLP_RP<br>
+put AOLP_RP plates under  data/AOLP_RP<br>
 
 or<br>
 
