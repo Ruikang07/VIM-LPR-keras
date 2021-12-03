@@ -38,6 +38,8 @@ All the image files and label files can be saved in npy files<br>
 │     ├── AOLP_AC_plate_labels_in_number.npy
 │     ├── AOLP_LE_plate_images.npy  
 │     ├── AOLP_LE_plate_labels_in_number.npy  
+│     ├── AOLP_RP_plate_images.npy  
+│     ├── AOLP_RP_plate_labels_in_number.npy  
 │     ├── AOLP_noSkew_plate_images.npy  
 │     └── AOLP_noSkew_plate_labels_in_number.npy
 
