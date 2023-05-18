@@ -3,10 +3,7 @@ This is a re-implementation of VIM-LPR for paper "Efficient License Plate Recogn
 <br>
 This code is based on jfzhuang's [VIM-LPR](https://github.com/jfzhuang/VIM-LPR)
 <br><br>
-<br>
-This code is based on Miracleyoo's [Trainable-i3d-pytorch](https://github.com/miracleyoo/Trainable-i3d-pytorch)
-<br>
-<br>
+
 
 # Conda Environment
 python                  3.7.11
